@@ -12,8 +12,7 @@ Habilidades: JAVA ,JAVASCRIPT,TYSCRIPT,PHP,ANGULAR, LARAVEL, MYSQL ,POSTGRESQL,S
 - 😄 Pronombres: Toño,Josti 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JOSEOSTI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009444132069)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC1Rfg5ruspwjXojUbEG3z4A)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JOSEOSTI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009444132069)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSEOSTI)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JOSEOSTI&show_icons=true&count_private=true)  
