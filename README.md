@@ -8,7 +8,7 @@ conexion a  diferentes Base de Datos  Mysql, Postgresql,Sql Server ,mantenimient
 Habilidades: JAVA ,JAVASCRIPT,TYSCRIPT,PHP,ANGULAR, LARAVEL, MYSQL ,POSTGRESQL,SPRINGBOOT,REACT.
 
 - 🌱 Estoy aprendiendo React Natvie , Unity 
-- 📫 Cómo contactarme: joseostaiza57@outlook.com o 593 939174693 
+- 📫 Cómo contactarme: joseostaiza57@outlook.com o 593 990733362
 - 😄 Pronombres: Toño,Josti 
 
 
